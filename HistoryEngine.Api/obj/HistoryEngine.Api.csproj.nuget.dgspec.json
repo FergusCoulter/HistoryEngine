@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Development\\HistoryEngine\\HistoryEngine.Api\\HistoryEngine.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\Development\\HistoryEngine\\HistoryEngine.Api\\HistoryEngine.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\HistoryEngine\\HistoryEngine.Api\\HistoryEngine.Api.csproj",
+        "projectName": "HistoryEngine.Api",
+        "projectPath": "D:\\Development\\HistoryEngine\\HistoryEngine.Api\\HistoryEngine.Api.csproj",
+        "packagesPath": "C:\\Users\\Ferg\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\HistoryEngine\\HistoryEngine.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ferg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Development\\DinkToPdf\\src\\DinkToPdf\\bin\\Release": {},
+          "D:\\Development\\piranha.core-version-v8.4\\core\\Piranha.Manager\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
