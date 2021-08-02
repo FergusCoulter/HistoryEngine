@@ -5,10 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Models\Knowledge\" />
+    <Folder Include="Models\Knowledge\CivKnowledge\" />
+    <Folder Include="Models\Knowledge\IndividualKnowledge\" />
     <Folder Include="States\Civilisation States\" />
     <Folder Include="States\Knowledge States\" />
-    <Folder Include="States\People States\" />
     <Folder Include="States\Settlement States\" />
     <Folder Include="States\World States\" />
   </ItemGroup>

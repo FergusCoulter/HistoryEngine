@@ -6,5 +6,7 @@ namespace HistoryEngine.Data.Models.Civilisations.Citizens.Jobs
 {
     class BaseJob
     {
+        public string jobName { get; set; }
+        
     }
 }
