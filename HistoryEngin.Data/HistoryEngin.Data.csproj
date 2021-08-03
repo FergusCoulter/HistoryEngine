@@ -7,10 +7,14 @@
   <ItemGroup>
     <Folder Include="Models\Knowledge\CivKnowledge\" />
     <Folder Include="Models\Knowledge\IndividualKnowledge\" />
+    <Folder Include="Models\Artifacts\" />
     <Folder Include="States\Civilisation States\" />
     <Folder Include="States\Knowledge States\" />
-    <Folder Include="States\Settlement States\" />
     <Folder Include="States\World States\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SkiaSharp" Version="2.88.0-preview.61" />
   </ItemGroup>
 
 </Project>

@@ -44,6 +44,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "SkiaSharp": {
+              "target": "Package",
+              "version": "[2.88.0-preview.61, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

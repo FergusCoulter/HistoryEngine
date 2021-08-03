@@ -8,4 +8,8 @@
     <Folder Include="Structs\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="SkiaSharp" Version="2.88.0-preview.61" />
+  </ItemGroup>
+
 </Project>

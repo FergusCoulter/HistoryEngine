@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "gs/5QUNreK3q9G0JhRrPx4U6jQ38gSk5dZ8ZcfouIlf85Nj5ghLD7o68g5Of3swLkkVqLEpae8mTmi+nySbtXg==",
+  "dgSpecHash": "7AkOcX1RjHStBU/EBG4JppbQUQgxgjyxTi9d2uVzAdsqpyXtNYLad+enjGPaeI9pGad2mfTi3z9t9CFd8QRO6A==",
   "success": true,
   "projectFilePath": "D:\\Development\\HistoryEngine\\HistoryEngine.Api\\HistoryEngine.Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ferg\\.nuget\\packages\\skiasharp\\2.88.0-preview.61\\skiasharp.2.88.0-preview.61.nupkg.sha512",
+    "C:\\Users\\Ferg\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
   "logs": []
 }

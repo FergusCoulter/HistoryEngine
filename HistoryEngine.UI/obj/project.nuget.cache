@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rJqO1L5s5VziV3j1HWCmoc5s7yxuJMYLEP7Uqm0m5TrhN95VJ7W5e0Cju6aPfzBKD5K//GOyBXhdgVQKM8G7LQ==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\HistoryEngine\\HistoryEngine.UI\\HistoryEngine.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ferg\\.nuget\\packages\\skiasharp\\2.88.0-preview.61\\skiasharp.2.88.0-preview.61.nupkg.sha512",
+    "C:\\Users\\Ferg\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Ferg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

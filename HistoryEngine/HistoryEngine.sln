@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HistoryEngine.Core", "HistoryEngine.Core.csproj", "{6070D07B-0A56-4DEC-B13F-84C6FCF4042B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HistoryEngine.Core", "HistoryEngine.Core.csproj", "{6070D07B-0A56-4DEC-B13F-84C6FCF4042B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HistoryEngin.Data", "..\HistoryEngin.Data\HistoryEngin.Data.csproj", "{827ACF26-3B12-4788-8491-82F6B161A1F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HistoryEngin.Data", "..\HistoryEngin.Data\HistoryEngin.Data.csproj", "{827ACF26-3B12-4788-8491-82F6B161A1F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HistoryEngine.Api", "..\HistoryEngine.Api\HistoryEngine.Api.csproj", "{7E6A0F6E-E442-491F-B89C-E8CC1CE84675}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HistoryEngine.Api", "..\HistoryEngine.Api\HistoryEngine.Api.csproj", "{7E6A0F6E-E442-491F-B89C-E8CC1CE84675}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HistoryEngine.UI", "..\HistoryEngine.UI\HistoryEngine.UI.csproj", "{727602D1-0BB6-4BE4-B744-B35B9F2BCD91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{7E6A0F6E-E442-491F-B89C-E8CC1CE84675}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E6A0F6E-E442-491F-B89C-E8CC1CE84675}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E6A0F6E-E442-491F-B89C-E8CC1CE84675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{727602D1-0BB6-4BE4-B744-B35B9F2BCD91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{727602D1-0BB6-4BE4-B744-B35B9F2BCD91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{727602D1-0BB6-4BE4-B744-B35B9F2BCD91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{727602D1-0BB6-4BE4-B744-B35B9F2BCD91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
