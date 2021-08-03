@@ -22,7 +22,7 @@ namespace HistoryEngine.UI
         private void button1_Click(object sender, EventArgs e)
         {
             try{
-                SKImageInfo imageInfo = new SKImageInfo(776,381);
+                SKImageInfo imageInfo = new SKImageInfo(pictureBox1.Width,pictureBox1.Height);
                 using (SKSurface surface = SKSurface.Create(imageInfo))
                 {
                     SKCanvas canvas = surface.Canvas;
