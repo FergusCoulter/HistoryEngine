@@ -25,7 +25,6 @@ D:\Development\HistoryEngine\HistoryEngine.UI\bin\Debug\netcoreapp3.1\runtimes\w
 D:\Development\HistoryEngine\HistoryEngine.UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\libSkiaSharp.dll
 D:\Development\HistoryEngine\HistoryEngine.UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
 D:\Development\HistoryEngine\HistoryEngine.UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
-D:\Development\HistoryEngine\HistoryEngine.UI\obj\Debug\netcoreapp3.1\HistoryEngine.UI.csprojAssemblyReference.cache
 D:\Development\HistoryEngine\HistoryEngine.UI\obj\Debug\netcoreapp3.1\HistoryEngine.UI.Form1.resources
 D:\Development\HistoryEngine\HistoryEngine.UI\obj\Debug\netcoreapp3.1\HistoryEngine.UI.csproj.GenerateResource.cache
 D:\Development\HistoryEngine\HistoryEngine.UI\obj\Debug\netcoreapp3.1\HistoryEngine.UI.AssemblyInfoInputs.cache
@@ -35,3 +34,4 @@ D:\Development\HistoryEngine\HistoryEngine.UI\obj\Debug\netcoreapp3.1\HistoryEng
 D:\Development\HistoryEngine\HistoryEngine.UI\obj\Debug\netcoreapp3.1\HistoryEngine.UI.dll
 D:\Development\HistoryEngine\HistoryEngine.UI\obj\Debug\netcoreapp3.1\HistoryEngine.UI.pdb
 D:\Development\HistoryEngine\HistoryEngine.UI\obj\Debug\netcoreapp3.1\HistoryEngine.UI.genruntimeconfig.cache
+D:\Development\HistoryEngine\HistoryEngine.UI\obj\Debug\netcoreapp3.1\HistoryEngine.UI.csprojAssemblyReference.cache

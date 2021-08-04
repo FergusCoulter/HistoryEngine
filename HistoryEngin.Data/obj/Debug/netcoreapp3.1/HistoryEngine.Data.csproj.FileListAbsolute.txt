@@ -1,0 +1,3 @@
+D:\Development\HistoryEngine\HistoryEngin.Data\obj\Debug\netcoreapp3.1\HistoryEngine.Data.AssemblyInfoInputs.cache
+D:\Development\HistoryEngine\HistoryEngin.Data\obj\Debug\netcoreapp3.1\HistoryEngine.Data.AssemblyInfo.cs
+D:\Development\HistoryEngine\HistoryEngin.Data\obj\Debug\netcoreapp3.1\HistoryEngine.Data.csproj.CoreCompileInputs.cache

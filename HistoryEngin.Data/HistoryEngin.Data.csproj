@@ -1,20 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-  </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="Models\Knowledge\CivKnowledge\" />
-    <Folder Include="Models\Knowledge\IndividualKnowledge\" />
-    <Folder Include="Models\Artifacts\" />
-    <Folder Include="States\Civilisation States\" />
-    <Folder Include="States\Knowledge States\" />
-    <Folder Include="States\World States\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <PackageReference Include="SkiaSharp" Version="2.88.0-preview.61" />
-  </ItemGroup>
-
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
 </Project>

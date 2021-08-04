@@ -1,0 +1,8 @@
+D:\Development\HistoryEngine\HistoryEngine.Api\bin\Debug\netcoreapp3.1\HistoryEngine.Api.deps.json
+D:\Development\HistoryEngine\HistoryEngine.Api\bin\Debug\netcoreapp3.1\HistoryEngine.Api.dll
+D:\Development\HistoryEngine\HistoryEngine.Api\bin\Debug\netcoreapp3.1\HistoryEngine.Api.pdb
+D:\Development\HistoryEngine\HistoryEngine.Api\obj\Debug\netcoreapp3.1\HistoryEngine.Api.AssemblyInfoInputs.cache
+D:\Development\HistoryEngine\HistoryEngine.Api\obj\Debug\netcoreapp3.1\HistoryEngine.Api.AssemblyInfo.cs
+D:\Development\HistoryEngine\HistoryEngine.Api\obj\Debug\netcoreapp3.1\HistoryEngine.Api.csproj.CoreCompileInputs.cache
+D:\Development\HistoryEngine\HistoryEngine.Api\obj\Debug\netcoreapp3.1\HistoryEngine.Api.dll
+D:\Development\HistoryEngine\HistoryEngine.Api\obj\Debug\netcoreapp3.1\HistoryEngine.Api.pdb

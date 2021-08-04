@@ -244,9 +244,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\HistoryEngine\\HistoryEngin.Data\\HistoryEngin.Data.csproj",
-      "projectName": "HistoryEngin.Data",
-      "projectPath": "D:\\Development\\HistoryEngine\\HistoryEngin.Data\\HistoryEngin.Data.csproj",
+      "projectUniqueName": "D:\\Development\\HistoryEngine\\HistoryEngin.Data\\HistoryEngine.Data.csproj",
+      "projectName": "HistoryEngine.Data",
+      "projectPath": "D:\\Development\\HistoryEngine\\HistoryEngin.Data\\HistoryEngine.Data.csproj",
       "packagesPath": "C:\\Users\\Ferg\\.nuget\\packages\\",
       "outputPath": "D:\\Development\\HistoryEngine\\HistoryEngin.Data\\obj\\",
       "projectStyle": "PackageReference",

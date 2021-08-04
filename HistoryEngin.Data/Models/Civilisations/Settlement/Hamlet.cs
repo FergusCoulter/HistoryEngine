@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace HistoryEngin.Data.Models.Civilisations.Settlement
+namespace HistoryEngine.Data.Models.Civilisations.Settlement
 {
     class Hamlet:SettlementBase
     {

@@ -6,7 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace HistoryEngin.Data.Models.Civilisations.Building
+namespace HistoryEngine.Data.Models.Civilisations.Building
 {
     class SmallHut:BaseBuilding
     {
