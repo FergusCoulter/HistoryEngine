@@ -11,7 +11,7 @@ namespace HistoryEngine.Data.Models.World.Map
 
         public Map()
         {
-            tileMap = new Tile[700, 300];
+            tileMap = new Tile[700, 700];
         }
         public Map(int xCoords, int yCoords)
         {

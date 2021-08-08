@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -7,7 +7,6 @@
   <ItemGroup>
     <Folder Include="Models\Events\Civ Events\" />
     <Folder Include="Models\Events\Settlement Events\" />
-    <Folder Include="States\Civilisation States\" />
     <Folder Include="States\Knowledge States\" />
     <Folder Include="States\World States\" />
   </ItemGroup>

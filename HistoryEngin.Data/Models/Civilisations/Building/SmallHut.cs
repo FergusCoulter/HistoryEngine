@@ -18,8 +18,10 @@ namespace HistoryEngine.Data.Models.Civilisations.Building
 
         public SmallHut()
         {
-            maxOccupants = 4;
+            maxOccupants = 2;
             function = Function.Housing;
+            state = GeneralState.Occupied;
+            condition = Condition.Fantastic;
         }
         
 

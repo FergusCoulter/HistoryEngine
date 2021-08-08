@@ -8,7 +8,7 @@ using System.Text;
 namespace HistoryEngine.Data.Models.Civilisations.Citizens.People
 
 {
-    class Individual:Entity<Individual>
+    public class Individual:Entity<Individual>
     {
         public Guid id { get; set; }
         public string name { get; set; }

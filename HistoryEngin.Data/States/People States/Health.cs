@@ -4,7 +4,7 @@ using System.Text;
 
 namespace HistoryEngin.Data.States.People_States
 {
-    enum Health
+    public enum Health
     {
         Well, 
         UnderWeather,

@@ -9,4 +9,16 @@
     <PackageReference Include="SkiaSharp" Version="2.88.0-preview.61" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\CLIGL\CLIGL\CGEngine.csproj" />
+    <ProjectReference Include="..\HistoryEngin.Data\HistoryEngine.Data.csproj" />
+    <ProjectReference Include="..\HistoryEngine.Api\HistoryEngine.Api.csproj" />
+    <ProjectReference Include="..\NameEngine\NameEngine.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="AI\" />
+    <Folder Include="State Machines\" />
+  </ItemGroup>
+
 </Project>

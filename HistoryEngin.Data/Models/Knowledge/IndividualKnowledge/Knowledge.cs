@@ -4,7 +4,7 @@ using System.Text;
 
 namespace HistoryEngine.Data.Models.Knowledge.IndividualKnowledge
 {
-    class Knowledge
+    public class Knowledge
     {
     }
 }

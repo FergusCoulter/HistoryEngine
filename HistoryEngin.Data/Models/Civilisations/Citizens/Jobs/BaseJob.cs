@@ -4,7 +4,7 @@ using System.Text;
 
 namespace HistoryEngine.Data.Models.Civilisations.Citizens.Jobs
 {
-    class BaseJob
+    public class BaseJob
     {
         public string jobName { get; set; }
         

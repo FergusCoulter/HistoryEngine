@@ -104,6 +104,15 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
+      },
+      "CGEngine/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CGEngine.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CGEngine.dll": {}
+        }
       }
     }
   },
@@ -230,10 +239,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "CGEngine/1.0.0": {
+      "type": "project",
+      "path": "../../CLIGL/CLIGL/CGEngine.csproj",
+      "msbuildProject": "../../CLIGL/CLIGL/CGEngine.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "CGEngine >= 1.0.0",
       "SkiaSharp >= 2.88.0-preview.61"
     ]
   },
@@ -269,7 +284,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Development\\CLIGL\\CLIGL\\CGEngine.csproj": {
+              "projectPath": "D:\\Development\\CLIGL\\CLIGL\\CGEngine.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

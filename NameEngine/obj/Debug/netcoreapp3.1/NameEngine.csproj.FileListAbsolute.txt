@@ -1,0 +1,9 @@
+D:\Development\HistoryEngine\NameEngine\bin\Debug\netcoreapp3.1\NameEngine.deps.json
+D:\Development\HistoryEngine\NameEngine\bin\Debug\netcoreapp3.1\NameEngine.dll
+D:\Development\HistoryEngine\NameEngine\bin\Debug\netcoreapp3.1\NameEngine.pdb
+D:\Development\HistoryEngine\NameEngine\obj\Debug\netcoreapp3.1\NameEngine.csprojAssemblyReference.cache
+D:\Development\HistoryEngine\NameEngine\obj\Debug\netcoreapp3.1\NameEngine.AssemblyInfoInputs.cache
+D:\Development\HistoryEngine\NameEngine\obj\Debug\netcoreapp3.1\NameEngine.AssemblyInfo.cs
+D:\Development\HistoryEngine\NameEngine\obj\Debug\netcoreapp3.1\NameEngine.csproj.CoreCompileInputs.cache
+D:\Development\HistoryEngine\NameEngine\obj\Debug\netcoreapp3.1\NameEngine.dll
+D:\Development\HistoryEngine\NameEngine\obj\Debug\netcoreapp3.1\NameEngine.pdb

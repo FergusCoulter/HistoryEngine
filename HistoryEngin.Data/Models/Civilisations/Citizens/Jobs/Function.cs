@@ -4,7 +4,7 @@ using System.Text;
 
 namespace HistoryEngine.Data.Models.Civilisations.Citizens.Jobs
 {
-    class Function:BaseJob
+    public class Function:BaseJob
     {
     }
 }

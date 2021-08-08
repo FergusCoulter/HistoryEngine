@@ -10,4 +10,8 @@
     <PackageReference Include="SkiaSharp" Version="2.88.0-preview.61" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\CLIGL\CLIGL\CGEngine.csproj" />
+  </ItemGroup>
+
 </Project>

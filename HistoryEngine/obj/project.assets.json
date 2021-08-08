@@ -104,6 +104,51 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
+      },
+      "CGEngine/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CGEngine.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CGEngine.dll": {}
+        }
+      },
+      "HistoryEngine.Api/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "SkiaSharp": "2.88.0-preview.61"
+        },
+        "compile": {
+          "bin/placeholder/HistoryEngine.Api.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HistoryEngine.Api.dll": {}
+        }
+      },
+      "HistoryEngine.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "SkiaSharp": "2.88.0-preview.61"
+        },
+        "compile": {
+          "bin/placeholder/HistoryEngine.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HistoryEngine.Data.dll": {}
+        }
+      },
+      "NameEngine/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/NameEngine.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NameEngine.dll": {}
+        }
       }
     }
   },
@@ -230,10 +275,34 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "CGEngine/1.0.0": {
+      "type": "project",
+      "path": "../../CLIGL/CLIGL/CGEngine.csproj",
+      "msbuildProject": "../../CLIGL/CLIGL/CGEngine.csproj"
+    },
+    "HistoryEngine.Api/1.0.0": {
+      "type": "project",
+      "path": "../HistoryEngine.Api/HistoryEngine.Api.csproj",
+      "msbuildProject": "../HistoryEngine.Api/HistoryEngine.Api.csproj"
+    },
+    "HistoryEngine.Data/1.0.0": {
+      "type": "project",
+      "path": "../HistoryEngin.Data/HistoryEngine.Data.csproj",
+      "msbuildProject": "../HistoryEngin.Data/HistoryEngine.Data.csproj"
+    },
+    "NameEngine/1.0.0": {
+      "type": "project",
+      "path": "../NameEngine/NameEngine.csproj",
+      "msbuildProject": "../NameEngine/NameEngine.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "CGEngine >= 1.0.0",
+      "HistoryEngine.Api >= 1.0.0",
+      "HistoryEngine.Data >= 1.0.0",
+      "NameEngine >= 1.0.0",
       "SkiaSharp >= 2.88.0-preview.61"
     ]
   },
@@ -269,7 +338,20 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Development\\CLIGL\\CLIGL\\CGEngine.csproj": {
+              "projectPath": "D:\\Development\\CLIGL\\CLIGL\\CGEngine.csproj"
+            },
+            "D:\\Development\\HistoryEngine\\HistoryEngin.Data\\HistoryEngine.Data.csproj": {
+              "projectPath": "D:\\Development\\HistoryEngine\\HistoryEngin.Data\\HistoryEngine.Data.csproj"
+            },
+            "D:\\Development\\HistoryEngine\\HistoryEngine.Api\\HistoryEngine.Api.csproj": {
+              "projectPath": "D:\\Development\\HistoryEngine\\HistoryEngine.Api\\HistoryEngine.Api.csproj"
+            },
+            "D:\\Development\\HistoryEngine\\NameEngine\\NameEngine.csproj": {
+              "projectPath": "D:\\Development\\HistoryEngine\\NameEngine\\NameEngine.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

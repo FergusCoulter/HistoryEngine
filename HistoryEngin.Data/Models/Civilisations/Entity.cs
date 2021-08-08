@@ -4,11 +4,11 @@ using System.Text;
 
 namespace HistoryEngine.Data.Models.Civilisations
 {
-    class Entity<T> : Entity
+    public class Entity<T> : Entity
     {
 
     }
-    class Entity
+    public class Entity
     {
 
     }

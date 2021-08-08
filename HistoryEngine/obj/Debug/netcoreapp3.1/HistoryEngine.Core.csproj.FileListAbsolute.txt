@@ -32,3 +32,13 @@ D:\Development\HistoryEngine\HistoryEngine\obj\Debug\netcoreapp3.1\HistoryEngine
 D:\Development\HistoryEngine\HistoryEngine\obj\Debug\netcoreapp3.1\HistoryEngine.Core.dll
 D:\Development\HistoryEngine\HistoryEngine\obj\Debug\netcoreapp3.1\HistoryEngine.Core.pdb
 D:\Development\HistoryEngine\HistoryEngine\obj\Debug\netcoreapp3.1\HistoryEngine.Core.genruntimeconfig.cache
+D:\Development\HistoryEngine\HistoryEngine\obj\Debug\netcoreapp3.1\HistoryEngine.Core.csprojAssemblyReference.cache
+D:\Development\HistoryEngine\HistoryEngine\bin\Debug\netcoreapp3.1\CGEngine.dll
+D:\Development\HistoryEngine\HistoryEngine\bin\Debug\netcoreapp3.1\HistoryEngine.Api.dll
+D:\Development\HistoryEngine\HistoryEngine\bin\Debug\netcoreapp3.1\HistoryEngine.Data.dll
+D:\Development\HistoryEngine\HistoryEngine\bin\Debug\netcoreapp3.1\NameEngine.dll
+D:\Development\HistoryEngine\HistoryEngine\bin\Debug\netcoreapp3.1\CGEngine.pdb
+D:\Development\HistoryEngine\HistoryEngine\bin\Debug\netcoreapp3.1\CGEngine.dll.config
+D:\Development\HistoryEngine\HistoryEngine\bin\Debug\netcoreapp3.1\HistoryEngine.Data.pdb
+D:\Development\HistoryEngine\HistoryEngine\bin\Debug\netcoreapp3.1\HistoryEngine.Api.pdb
+D:\Development\HistoryEngine\HistoryEngine\bin\Debug\netcoreapp3.1\NameEngine.pdb

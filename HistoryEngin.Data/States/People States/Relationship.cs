@@ -4,7 +4,7 @@ using System.Text;
 
 namespace HistoryEngine.Data.States.People_States
 {
-    enum Relationship
+    public enum Relationship
     {
         Single,
         Married,

@@ -8,6 +8,10 @@
     ".NETCoreApp,Version=v3.1": {
       "HistoryEngine.Core/1.0.0": {
         "dependencies": {
+          "CGEngine": "1.0.0",
+          "HistoryEngine.Api": "1.0.0",
+          "HistoryEngine.Data": "1.0.0",
+          "NameEngine": "1.0.0",
           "SkiaSharp": "2.88.0-preview.61"
         },
         "runtime": {
@@ -127,7 +131,33 @@
           }
         }
       },
-      "System.Memory/4.5.3": {}
+      "System.Memory/4.5.3": {},
+      "CGEngine/1.0.0": {
+        "runtime": {
+          "CGEngine.dll": {}
+        }
+      },
+      "HistoryEngine.Api/1.0.0": {
+        "dependencies": {
+          "SkiaSharp": "2.88.0-preview.61"
+        },
+        "runtime": {
+          "HistoryEngine.Api.dll": {}
+        }
+      },
+      "HistoryEngine.Data/1.0.0": {
+        "dependencies": {
+          "SkiaSharp": "2.88.0-preview.61"
+        },
+        "runtime": {
+          "HistoryEngine.Data.dll": {}
+        }
+      },
+      "NameEngine/1.0.0": {
+        "runtime": {
+          "NameEngine.dll": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -149,6 +179,26 @@
       "sha512": "sha512-3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA==",
       "path": "system.memory/4.5.3",
       "hashPath": "system.memory.4.5.3.nupkg.sha512"
+    },
+    "CGEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HistoryEngine.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HistoryEngine.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NameEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

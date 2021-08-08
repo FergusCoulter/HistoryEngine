@@ -5,7 +5,7 @@ using System.Text;
 
 namespace HistoryEngine.Data.Models.Civilisations.Citizens.People
 {
-    class IndividualRelationship
+    public class IndividualRelationship
     {
         public Guid RelationshipIndividualId { get; set; }
         public DateTime startDate { get; set; }
